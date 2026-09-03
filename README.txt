@@ -3,11 +3,11 @@ SHUBH PORTFOLIO
 
 Files:
 - index.html — complete one-page portfolio
-- profile.png — profile image
-- cinematic-edit.mp4
-- fashion-edit.mp4
-- viral-reel.mp4
-- ai-content-edit.mp4
+- 1000646495.png — profile image
+- 1000646473.mp4
+- 1000613602.mp4
+- 1000613193.mp4
+- 1000646492.mp4
 
 Open index.html in a browser to preview the portfolio.
 
